@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🍕 Pizza Sales Data Science Project
 
 This project analyzes pizza delivery performance to uncover factors that impact delivery time, efficiency, and delays using Python and Scikit-learn.  
@@ -49,14 +49,10 @@ It follows a full end-to-end data science workflow — from cleaning and visuali
 - Create a Streamlit or Flask dashboard for live delivery predictions  
 - Compare performance across restaurants and traffic levels  
 
----
 
-## 📊 Sample Visualization
 
-*(Add an image if you saved one, e.g. `delivery_boxplot.png`)*  
-```markdown
-![Delivery Boxplot](data/delivery_boxplot.png)
----
+
+
 
 ## 👨‍💻 Author
 
@@ -102,4 +98,4 @@ jupyter notebook notebooks/pizza_sales_analysis.ipynb
 =======
 # pizza-sales-analysis
 End-to-end data science project analyzing pizza delivery performance using Python, Pandas, and Scikit-learn.
->>>>>>> fcfb36ba35e70947f3e559289fb9e2d91222b9dd
+
