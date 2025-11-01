@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍕 Pizza Sales Data Science Project
 
 This project analyzes pizza delivery performance to uncover factors that impact delivery time, efficiency, and delays using Python and Scikit-learn.  
@@ -98,3 +99,7 @@ jupyter notebook notebooks/pizza_sales_analysis.ipynb
    git add .
    git commit -m "Added README and final structure"
    git push
+=======
+# pizza-sales-analysis
+End-to-end data science project analyzing pizza delivery performance using Python, Pandas, and Scikit-learn.
+>>>>>>> fcfb36ba35e70947f3e559289fb9e2d91222b9dd
